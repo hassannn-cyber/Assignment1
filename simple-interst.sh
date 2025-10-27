@@ -1,0 +1,1 @@
+This script calculates the simple interest based on user inputs such as principal amount, rate of interest, and time period. Including this file ensures that the main functionality of the project is available and executable. It demonstrates that the repository contains working code related to its stated purpose.
