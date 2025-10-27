@@ -1,0 +1,1 @@
+This file provides clear guidelines for anyone who wants to contribute to the project, including how to report issues, submit pull requests, and follow coding conventions. It helps new contributors understand the process and ensures that all contributions are consistent and high-quality. This makes project collaboration more efficient and organized.
